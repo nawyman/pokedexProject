@@ -1,0 +1,12 @@
+Name of Pokemon: Pikachu
+Pokedex Entry: When it is angered it immediately discharges the energy stored in the pouches in its cheeks.
+~~~~~~~~~~~~~~~~~~~~
+Stat Total: 320
+Health Points: 35         
+Attack Points: 55
+Defense Points: 40
+Special Attack Points: 50
+Special Defense Points: 50        
+Speed Points: 90
+Generation: 1
+~~~~~~~~~~~~~~~~~~~~
