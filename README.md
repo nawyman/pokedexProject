@@ -9,4 +9,7 @@ I also have here a CSV file that has every single Pokemon's stat totals and stat
 
 ** I don't own the right to anything Pokemon related and did this just for fun (I'm not sure if I have to say this, but here it is anyways) **
 
+If you're having trouble running this project, make sure you have the latest version of Python istalled, as well as PIP and all the other libraries needed
+
+
 -NW
